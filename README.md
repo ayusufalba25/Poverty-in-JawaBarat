@@ -9,7 +9,7 @@ Our team called **AFIB** which consider to be the abbreviations of our member th
 1. [Ahmad Yusuf Albadri](https://www.linkedin.com/in/ahmad-yusuf-a-ab5696130/) (me),
 2. [Faris Dwiki Gunawan](https://www.linkedin.com/in/faris-dwiki-gunawan/),
 3. [Idrus Syahzaqi](https://www.linkedin.com/in/idrus-syahzaqi-9670b719b/), and
-4. Biyoso Pradnyo Purnomo.
+4. [Biyoso Pradnyo Purnomo](https://www.linkedin.com/in/biyoso-pradnyo-purnomo-99ba30222).
 
 ## Data
 Data we've used came from ***Badan Pusat Statistik*** (BPS) that have been compiled into the **Open Data Jabar**.
@@ -31,6 +31,8 @@ Kabupaten Karawang | 207,245554
 
 Predictors | Estimated Coefficient
 ------------ | -------------
-pengeluaran_perkapita | 401,438418
-apk_perguruan_tinggi | 244,401710
-tingkat_pengangguran_terbuka | 223,586339
+pengeluaran_perkapita | -40,9845
+apk_perguruan_tinggi | 8,3953
+tingkat_pengangguran_terbuka | 18,3210
+
+We've also made the coefficient and partial dependence plot in our [google colab notebook](https://github.com/ayusufalba25/Poverty-in-JawaBarat/blob/master/Code.ipynb) to gain more insight from the estimated model.
