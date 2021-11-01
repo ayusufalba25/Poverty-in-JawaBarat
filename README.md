@@ -1,6 +1,6 @@
 # Modeling the Number of Poverty in Jawa Barat using Multiple Linear Regression with Dummy Variables
 
-![Dashboard](/images/Dashboard Overview.png)
+![Dashboard Overview](https://github.com/ayusufalba25/Poverty-in-JawaBarat/blob/master/images/Dashboard%20Overview.png)
 
 This project conducted for National Data Science Tournament 2021 in Indonesia and we've managed to win the tournament as the **third winner**. Our team created a [dashboard with Tableau Public](https://public.tableau.com/app/profile/faris.dwiki.gunawan/viz/AFIB_VI/DashboardKemiskinan) based on the modeling of the number of poverty in Jawa Barat using multiple linear regression with dummy variables for each districts/cities. This particular dummy variables created to shown the marginal effect of each districts/cities in Jawa Barat to the number of poverty in its region.
 
